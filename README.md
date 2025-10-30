@@ -28,6 +28,8 @@ Amacım; edindiğim deneyimi kullanarak gerçek dünyadaki iş süreçlerini dij
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="mys" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
 </p>
 
 ## Projects
@@ -43,6 +45,5 @@ Amacım; edindiğim deneyimi kullanarak gerçek dünyadaki iş süreçlerini dij
 DalamanKart, Dalaman Belediyesi'nin hizmetlerinden tüm Dalamanlıların kolayca yararlanmasını sağlayacak gelişmiş şehir kartıdır. Oluşturduğu ekosistemiyle birlikte sunduğu avantajlarla, her türlü alışveriş imkanını sunan, nitelikli sosyal yardım yapılmasını sağlayan ön ödemeli para kartıdır.
 
 ---
-
 
 
