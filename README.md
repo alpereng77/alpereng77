@@ -44,7 +44,5 @@ DalamanKart, Dalaman Belediyesi'nin hizmetlerinden tüm Dalamanlıların kolayca
 
 ---
 
-## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpereng77&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
 
